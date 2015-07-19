@@ -880,3 +880,10 @@ img.fullsize {
 img.fullsize.stretch {
     width: 100%;
 }
+#blueSlide {
+    color: white;
+}
+#blueSlide h2{
+    color: white;
+    text-decoration: blink;
+}
